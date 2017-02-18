@@ -5,7 +5,7 @@ Email: jamesjrobertson42@gmail.com
 Coding Exercise v.1.1.2 - GroceryCo
 
 Run Application:
-	...\GroceryCoKiosk\GroceryCoKiosk\bin\Release\GroceryCoKiosk.exe
+	...\GroceryCoKiosk\bin\Release\GroceryCoKiosk.exe
 
 To add items to the price catalog:
 	Edit the Catalog.txt file in release folder, has examples
