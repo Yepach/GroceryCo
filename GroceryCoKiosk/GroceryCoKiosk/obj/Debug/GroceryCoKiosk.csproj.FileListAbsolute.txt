@@ -1,0 +1,6 @@
+D:\Programming\Workspace\Visual Studio\GroceryCoKiosk\GroceryCoKiosk\bin\Debug\GroceryCoKiosk.exe.config
+D:\Programming\Workspace\Visual Studio\GroceryCoKiosk\GroceryCoKiosk\bin\Debug\GroceryCoKiosk.exe
+D:\Programming\Workspace\Visual Studio\GroceryCoKiosk\GroceryCoKiosk\bin\Debug\GroceryCoKiosk.pdb
+D:\Programming\Workspace\Visual Studio\GroceryCoKiosk\GroceryCoKiosk\obj\Debug\GroceryCoKiosk.csprojResolveAssemblyReference.cache
+D:\Programming\Workspace\Visual Studio\GroceryCoKiosk\GroceryCoKiosk\obj\Debug\GroceryCoKiosk.exe
+D:\Programming\Workspace\Visual Studio\GroceryCoKiosk\GroceryCoKiosk\obj\Debug\GroceryCoKiosk.pdb

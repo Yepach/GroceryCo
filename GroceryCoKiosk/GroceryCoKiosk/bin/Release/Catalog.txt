@@ -1,0 +1,4 @@
+Apple,1.00,onsale/0.5
+Orange,2.00,group/1.50/3
+Banana,3.00,additional/1.5
+Peach,4.00
